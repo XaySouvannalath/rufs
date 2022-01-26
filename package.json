@@ -1,0 +1,30 @@
+{
+  "name": "rufs",
+  "version": "1.0.0",
+  "description": "Remove Underscore From String",
+  "main": "index.js",
+  "keywords": [
+    "underscore",
+    "string",
+    "remove",
+    "underscore-string"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XaySouvannalath/rufs.git"
+  },
+  "author": "saiyavong",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true,
+  "bugs": {
+    "url": "https://github.com/XaySouvannalath/rufs/issues"
+  },
+  "homepage": "https://github.com/XaySouvannalath/rufs#readme"
+}
